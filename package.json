@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
+    "@headlessui/react": "^1.6.5",
+=======
+>>>>>>> e8bfb8e249137cc925cff23741b4a53f2413aba4
     "@heroicons/react": "^1.0.6",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
