@@ -14,6 +14,13 @@ export const projects=[
         link: "https://github.com/kaustubh0777/chat_application",
       },
       {
+        title: "Text Utils",
+        subtitle: "React js",
+        description:"Text Utilities App",
+        image: "./textutils.png",
+        link: "https://cute-semolina-90e681.netlify.app/",
+      },
+      {
         title: "Just Wiki",
         subtitle: "A Chrome Extension",
         description:"A Chrome Extension that can be used to search anything on wikipedia while surfing on the internet",
@@ -47,7 +54,7 @@ export const projects=[
 export const skills=["C++","Python","HTML","CSS","JS","React.js","Typed.js","Particle,js","Express,js","Bootstrap",
 "Node.js","MongoDB","SQL","Github","API","Linux"];
 
-export const certifications=["Data Structures and Algorithms(UC San Diego)",
+export const certifications=["Cisco Certified Network Associate (CCNA)","Data Structures and Algorithms(UC San Diego)",
   "Git & Github Ultimate guide for Begineers(Udemy)",
   "Machine Learning with Python(IBM)",
   "Python Basic Skills Certification(HackerRank)"]
@@ -57,5 +64,5 @@ export const certifications=["Data Structures and Algorithms(UC San Diego)",
 "Web Development Intern - The Sparks Foundation"]
 
 export const achievements=["Selected in Final's of Tech GIG Code Gladiators by Cognizant","Codechef 3 Star",
-"Solved Around 300+ Problems (Leetcode,GFG and other)","Geeks For Geeks Ranking (Under Top 40 of My College)",
-"Tech & Programming Writer at Quora with 23k+ views","Got AIR 4384 in Codekaze by Coding Ninjas"]
+"Solved Around 300+ Problems (Leetcode,GFG and other)","Geeks For Geeks Ranking (Under Top 35 of My College)",
+"Tech & Programming Writer at Quora with 23k+ views","Got AIR 4384 in Codekaze by Coding Ninjas","InterviewBit Rank Under Top 10 of My University","Cleared the TCS NQT Digital Written Round"]
